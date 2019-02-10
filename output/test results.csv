@@ -1,0 +1,147 @@
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 7}
+ANN,mushrooms,0.9995898277276456,{'MLP__activation': 'relu', 'MLP__hidden_layer_sizes': (42, 42, 42)}
+ANN,mushrooms,0.9991796554552912,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (42, 42)}
+KNN,mushrooms,1.0,{'KNN__metric': 'manhattan', 'KNN__n_neighbors': 5, 'KNN__weights': 'distance'}
+SVM,mushrooms,0.9626743232157506,{'SVM__alpha': 0.00031622776601683794, 'SVM__n_iter': 220}
+Boost,mushrooms,1.0,{'Boost__learning_rate': 0.01, 'Boost__n_estimators': 1}
+SVM,mushrooms,1.0,{'SVM__C': 0.1, 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 8}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 8}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 7}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 7}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 7}
+ANN,mushrooms,0.9991796554552912,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (42, 42)}
+ANN,mushrooms,0.9991796554552912,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (42, 42)}
+ANN,mushrooms,0.9991796554552912,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (42, 42)}
+ANN,mushrooms,0.9991796554552912,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (42, 42)}
+ANN,mushrooms,0.9991796554552912,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (42, 42)}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1  , 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 8}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 7}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 7}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 8}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+KNN,mushrooms,1.0,{'KNN__metric': 'manhattan', 'KNN__n_neighbors': 5, 'KNN__weights': 'distance'}
+Boost,mushrooms,1.0,{'Boost__learning_rate': 0.01, 'Boost__n_estimators': 1}
+Boost,mushrooms,1.0,{'Boost__learning_rate': 0.01, 'Boost__n_estimators': 1}
+DT,diabetes,0.6883116883116883,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7619047619047619,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7489177489177489,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 2}
+DT,diabetes,0.7489177489177489,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 2}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 2}
+DT,diabetes,0.7186147186147186,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 8}
+DT,diabetes,0.7186147186147186,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7272727272727273,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 6}
+DT,diabetes,0.7272727272727273,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.70995670995671,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7359307359307359,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7186147186147186,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7186147186147186,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7272727272727273,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.683982683982684,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7186147186147186,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7337662337662337,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7792207792207793,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 2}
+DT,diabetes,0.734375,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 5}
+DT,diabetes,0.7186147186147186,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7186147186147186,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.7056277056277056,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.670995670995671,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 19}
+DT,diabetes,0.7575757575757576,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7489177489177489,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 2}
+DT,diabetes,0.658008658008658,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 7}
+DT,diabetes,0.7012987012987013,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 20}
+DT,diabetes,0.7272727272727273,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 22}
+DT,diabetes,0.7489177489177489,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 2}
+DT,diabetes,0.645021645021645,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 15}
+DT,diabetes,0.7229437229437229,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 2}
+DT,diabetes,0.7186147186147186,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.5952380952380951,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.5952380952380951,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.5952380952380951,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+ANN,diabetes,0.6961325966850829,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (16, 16, 16)}
+ANN,diabetes,0.6961325966850829,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (16, 16, 16)}
+ANN,diabetes,0.6961325966850829,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (16, 16, 16)}
+Boost,mushrooms,0.9983593109105825,{'Boost__learning_rate': 1.28, 'Boost__n_estimators': 50}
+Boost,mushrooms,1.0,{'Boost__learning_rate': 1.28, 'Boost__n_estimators': 90}
+ANN,diabetes,0.6961325966850829,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (16, 16, 16)}
+ANN,diabetes,0.6961325966850829,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (16, 16, 16)}
+ANN,diabetes,0.6961325966850829,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (16, 16, 16)}
+ANN,diabetes,0.6439024390243901,{'MLP__activation': 'relu', 'MLP__alpha': 0.01, 'MLP__hidden_layer_sizes': (16,)}
+ANN,diabetes,0.6439024390243901,{'MLP__activation': 'relu', 'MLP__alpha': 0.01, 'MLP__hidden_layer_sizes': (16,)}
+ANN,diabetes,0.6559139784946237,{'MLP__activation': 'relu', 'MLP__alpha': 0.01, 'MLP__hidden_layer_sizes': (16, 16)}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,diabetes,0.6941176470588235,{'SVM__C': 0.1, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
+Boost,diabetes,0.6136363636363636,{'Boost__learning_rate': 0.64, 'Boost__n_estimators': 110}
+Boost,diabetes,0.7011494252873562,{'Boost__learning_rate': 0.04, 'Boost__n_estimators': 80}
+Boost,diabetes,0.6741573033707865,{'Boost__learning_rate': 0.08, 'Boost__n_estimators': 120}
+KNN,diabetes,0.6630434782608695,{'KNN__metric': 'manhattan', 'KNN__n_neighbors': 41, 'KNN__weights': 'distance'}
+ANN,mushrooms,1.0,{'MLP__activation': 'relu', 'MLP__alpha': 1.0, 'MLP__hidden_layer_sizes': (21, 21, 21)}
+ANN,mushrooms,1.0,{'MLP__activation': 'relu', 'MLP__alpha': 1.0, 'MLP__hidden_layer_sizes': (21, 21, 21)}
+KNN,mushrooms,1.0,{'KNN__metric': 'manhattan', 'KNN__n_neighbors': 1, 'KNN__weights': 'uniform'}
+Boost,mushrooms,1.0,{'Boost__learning_rate': 1.28, 'Boost__n_estimators': 90}
+Boost,mushrooms,1.0,{'Boost__learning_rate': 0.64, 'Boost__n_estimators': 60}
+Boost,mushrooms,1.0,{'Boost__learning_rate': 0.64, 'Boost__n_estimators': 60}
+DT,diabetes,0.5952380952380951,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.6974358974358974,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.5952380952380951,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.6974358974358974,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.7878600823045268,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.762962962962963,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 4}
+DT,diabetes,0.8122633744855967,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.8122633744855967,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.6766169154228856,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.6766169154228856,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.6974358974358974,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.6222222222222222,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 8}
+DT,diabetes,0.6470588235294118,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 20}
+DT,diabetes,0.8395061728395061,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.8641975308641975,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.8641975308641975,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.8641975308641975,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.8395061728395061,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.6766169154228856,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.6974358974358974,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.6766169154228856,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.6974358974358974,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.8641975308641975,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.8395061728395061,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+DT,diabetes,0.6766169154228856,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+ANN,diabetes,0.6595744680851063,{'MLP__activation': 'relu', 'MLP__alpha': 1.0, 'MLP__hidden_layer_sizes': (16, 16)}
+ANN,diabetes,0.6595744680851063,{'MLP__activation': 'relu', 'MLP__alpha': 1.0, 'MLP__hidden_layer_sizes': (16, 16)}
+ANN,diabetes,0.6559139784946237,{'MLP__activation': 'relu', 'MLP__alpha': 0.01, 'MLP__hidden_layer_sizes': (16, 16)}
+ANN,diabetes,0.6134969325153374,{'MLP__activation': 'relu', 'MLP__alpha': 10.0, 'MLP__hidden_layer_sizes': (16, 16)}
+ANN,diabetes,0.6439024390243901,{'MLP__activation': 'relu', 'MLP__alpha': 0.01, 'MLP__hidden_layer_sizes': (16,)}
+ANN,diabetes,0.6169154228855721,{'MLP__activation': 'relu', 'MLP__alpha': 0.1, 'MLP__hidden_layer_sizes': (16, 16)}
+ANN,diabetes,0.7085714285714286,{'MLP__activation': 'relu', 'MLP__alpha': 10.0, 'MLP__hidden_layer_sizes': (8, 8)}
+ANN,diabetes,0.6900584795321638,{'MLP__activation': 'relu', 'MLP__alpha': 10.0, 'MLP__hidden_layer_sizes': (8, 8)}
+KNN,diabetes,0.6630434782608695,{'KNN__metric': 'manhattan', 'KNN__n_neighbors': 41, 'KNN__weights': 'distance'}
+Boost,diabetes,0.6741573033707865,{'Boost__learning_rate': 0.08, 'Boost__n_estimators': 120}
+Boost,diabetes,0.7011494252873562,{'Boost__learning_rate': 0.04, 'Boost__n_estimators': 80}
+Boost,diabetes,0.6936416184971098,{'Boost__learning_rate': 0.04, 'Boost__n_estimators': 300}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 7}
+DT,mushrooms,1.0,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 7}
+DT,diabetes,0.6766169154228856,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+SVM,mushrooms,1.0,{'SVM__C': 1, 'SVM__gamma': 'scale', 'SVM__kernel': 'poly'}
+DT,diabetes,0.6974358974358974,{'DT__class_weight': 'balanced', 'DT__criterion': 'gini', 'DT__max_depth': 4}
+DT,diabetes,0.6766169154228856,{'DT__class_weight': 'balanced', 'DT__criterion': 'entropy', 'DT__max_depth': 3}
+SVM,diabetes,0.6941176470588235,{'SVM__C': 0.1, 'SVM__gamma': 'scale', 'SVM__kernel': 'linear'}
